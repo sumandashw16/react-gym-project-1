@@ -4,16 +4,16 @@ function Copyright() {
   return (
     <div className="font-medium text-gray-300">
       <p className=" ">
-        All Rights Reserved | &copy; <span>{new Date().getFullYear()}</span> CoreFit
+        All Rights Reserved | &copy; <span>{new Date().getFullYear()}</span> Suman Dash
       </p>
       <p>
         Designed by{" "}
         <Link
-          to="https://sharjeel-siddiqui.vercel.app"
+          to="https://www.linkedin.com/in/suman-dash-219163319"
           target="_blank"
           className="focus text-red"
         >
-          Sharjeel Siddiqui
+          Suman Dash
         </Link>
       </p>
     </div>
